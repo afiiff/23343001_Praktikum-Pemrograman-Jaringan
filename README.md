@@ -35,9 +35,9 @@
 ---
 
 ## 🎯 Tujuan Repository
-- 📂 Menyimpan seluruh hasil **Jobsheet Pemrograman Jaringan**  
-- 🚀 Melatih penggunaan **Git & GitHub**  
-- 📡 Membangun portofolio pembelajaran di bidang **Networking & Programming**  
+📂 Menyimpan seluruh hasil **Jobsheet Pemrograman Jaringan**  
+🚀 Melatih penggunaan **Git & GitHub**  
+📡 Membangun portofolio pembelajaran di bidang **Networking & Programming**  
 
 ---
 
