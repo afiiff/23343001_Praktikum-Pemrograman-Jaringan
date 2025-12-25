@@ -283,7 +283,7 @@ Semua tujuan praktikum tercapai:
 <h2 align="center">📸 Dokumentasi Praktikum</h2>
 
 <div align="center">
-  <img src="docs/Screenshot 2025-10-24 104936.png" width="80%" alt="Halaman Utama">
+  <img src="docs/Screenshot 2025-10-24 104929.png" width="80%" alt="Halaman Utama">
 </div>
 
 <br>
@@ -299,11 +299,6 @@ Semua tujuan praktikum tercapai:
 </div>
 
 <br>
-
-**Screenshot 6 – Halaman Error 404**
-<div align="center">
-  <img src="Foto/404.png" width="80%" alt="Halaman 404">
-</div>
 
 <hr>
 
