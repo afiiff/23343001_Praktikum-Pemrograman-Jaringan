@@ -96,7 +96,7 @@ Server mampu menerima request dan memberikan respons sesuai tujuan praktikum.
 
 **Output 1 – Eksekusi Program hello.js**
 <div align="center">
-  <img src="Foto/Output%201.png" width="65%" alt="Output hello.js">
+  <img src="docs/Screenshot 2025-09-30 195852.png" width="65%" alt="Output hello.js">
 </div>
 
 <br>
