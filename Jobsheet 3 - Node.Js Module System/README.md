@@ -184,12 +184,12 @@ Aplikasi buku catatan mendukung beberapa operasi:
 <br>
 
 <div align="center">
-  <img src="/docs/Screenshot 2025-09-23 092241.png
+  <img src="docs/Screenshot 2025-09-23 092241.png
 
 <br>
 
 <div align="center">
-  <img src="/docs/Screenshot 2025-10-03 073850.png" width="80%" alt="Output B.1">
+  <img src="docs/Screenshot 2025-10-03 073850.png" width="80%" alt="Output B.1">
 </div>
 
 <br>
@@ -245,4 +245,3 @@ Selain itu, praktikum ini memperkuat pemahaman aku tentang ES6 module syntax dan
   <em>Dokumentasi Praktikum Pemrograman Jaringan</em><br>
   <small>Kesimpulan Pelaksanaan Jobsheet 2</small>
 </p>
-
