@@ -244,5 +244,5 @@ Selain itu, praktikum ini memperkuat pemahaman aku tentang ES6 module syntax dan
 
 <p align="center">
   <em>Dokumentasi Praktikum Pemrograman Jaringan</em><br>
-  <small>Kesimpulan Pelaksanaan Jobsheet 2</small>
+  <small>Kesimpulan Pelaksanaan Jobsheet 3</small>
 </p>
