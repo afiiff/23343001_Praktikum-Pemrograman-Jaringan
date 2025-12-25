@@ -247,6 +247,5 @@ Selain itu, kesadaran akan pentingnya asynchronous programming, error handling, 
 
 <p align="center">
   <em>Dokumentasi Praktikum Pemrograman Jaringan</em><br>
-  <small>Kesimpulan Pelaksanaan Jobsheet 4</small>
+  <small>Kesimpulan Pelaksanaan Jobsheet 2</small>
 </p>
-
