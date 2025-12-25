@@ -298,13 +298,6 @@ Semua tujuan praktikum tercapai:
 
 <h2 align="center">📸 Dokumentasi Praktikum</h2>
 
-**Screenshot 1 – Halaman Utama (Home)**
-<div align="center">
-  <img src="Foto/Home.png" width="80%" alt="Halaman Utama">
-</div>
-
-<br>
-
 **Screenshot 2 – Halaman dengan Weather Information**
 <div align="center">
   <img src="Docs/Screenshot 2025-12-25 104556.png" width="80%" alt="Home dengan Cuaca">
@@ -380,4 +373,3 @@ Lebih jauh, Jobsheet 7 mengajarkan pentingnya treating aplikasi sebagai producti
   <em>Dokumentasi Praktikum Pemrograman Jaringan</em><br>
   <small>Kesimpulan Pelaksanaan Jobsheet 7</small>
 </p>
-
