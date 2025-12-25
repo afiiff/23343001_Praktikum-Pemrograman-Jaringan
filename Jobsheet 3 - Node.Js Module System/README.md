@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong style="font-size: 1.5em;">PRAKTIKUM PEMROGRAMAN JARINGAN</strong><br>
-  <em style="font-size: 1.1em;">Jobsheet 2 – Node.JS Module System</em>
+  <em style="font-size: 1.1em;">Jobsheet 3 – Node.JS Module System</em>
 </p>
 
 <p align="center">
