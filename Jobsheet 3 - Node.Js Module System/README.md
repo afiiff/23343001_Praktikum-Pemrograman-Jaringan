@@ -184,7 +184,8 @@ Aplikasi buku catatan mendukung beberapa operasi:
 <br>
 
 <div align="center">
-  <img src="docs/Screenshot 2025-09-23 092241.png
+  <img src="docs/Screenshot 2025-09-23 092241.png " width="80%" alt="Output A.1">
+</div>
 
 <br>
 
