@@ -32,13 +32,13 @@
 
 ---
 
-<h2 align="center">🔗 Repository dan Deployment</h2>
+<h2 align="center">🔗 Deployment</h2>
 
-Aplikasi **StratoNimbus** telah berhasil di-deploy dan tersedia di repository GitHub berikut:
+Aplikasi **Weather Explorer** telah berhasil di-deploy dan tersedia di Link Berikut berikut:
 
 <div align="center">
-  <a href="https://github.com/Rainy1502/Strato_Nimbus">
-    <img alt="GitHub Repository" src="https://img.shields.io/badge/GitHub-Strato_Nimbus-blue?style=for-the-badge&logo=github" />
+  <a href="https://weather-explorer-knpr.vercel.app/">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
