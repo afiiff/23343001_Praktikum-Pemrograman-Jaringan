@@ -103,14 +103,14 @@ Server mampu menerima request dan memberikan respons sesuai tujuan praktikum.
 
 **Output 2 – Server HTTP Berjalan**
 <div align="center">
-  <img src="Foto/Output%202.png" width="100%" alt="Server HTTP Node.JS">
+  <img src="docs/Screenshot 2025-09-30 200328.png" width="100%" alt="Server HTTP Node.JS">
 </div>
 
 <br>
 
 **Output 3 – Respons Server di Browser**
 <div align="center">
-  <img src="Foto/Output%203.png" width="100%" alt="Respons Browser">
+  <img src="docs/Screenshot 2025-09-30 201313.png" width="100%" alt="Respons Browser">
 </div>
 
 ### Kesesuaian dengan Tujuan
@@ -159,4 +159,3 @@ Selain itu, praktikum ini juga memberikan pengalaman praktis yang memperjelas pe
   <em>Dokumentasi Praktikum Pemrograman Jaringan</em><br>
   <small>Kesimpulan Pelaksanaan Jobsheet 1</small>
 </p>
-
